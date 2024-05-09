@@ -1,0 +1,10 @@
+Issues :-
+
+Live stream starts with a latency of about 5 seconds.
+
+The live stream ends after the duration of 10 seconds.
+
+The camera has to be rebooted after every live stream session ends. i.e cannot initiate back to back streams without reebot.
+
+battery backup of gopro on stream cannot be relied on as it lasts max of 1 hour on full charge.
+
